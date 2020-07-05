@@ -1,0 +1,14 @@
+Fluid mechanics dictionary
+==========================
+
+Even after a few years of experience, I still occasionally run across unknown
+words when reading articles or reports.  I often wished that I had a single
+comprehensive dictionary that could define technical terms in fluid mechanics.
+To that end, I decided to slowly create that kind of dictionary.  This is a
+long-term personal project, so I do not expect any "working product" in the
+meanwhile, but I nonetheless hope that one day I have accumulated enough to
+make the effort worthwhile.
+
+-------------------------------------------------------------------------------
+
+Copyright © 2020 Andrew Trettel
