@@ -9,6 +9,12 @@ long-term personal project, so I do not expect any "working product" in the
 meanwhile, but I nonetheless hope that one day I have accumulated enough to
 make the effort worthwhile.
 
+
+Works consulted for the English word list
+-----------------------------------------
+
+- Aris 1962, "Vectors, Tensors, and the Basic Equations of Fluid Mechanics"
+
 -------------------------------------------------------------------------------
 
 Copyright © 2020 Andrew Trettel
