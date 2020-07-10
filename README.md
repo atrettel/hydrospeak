@@ -15,6 +15,8 @@ Works consulted for the English word list
 
 - Aris 1962, "Vectors, Tensors, and the Basic Equations of Fluid Mechanics"
 
+- Batchelor 1967, "An Introduction to Fluid Dynamics"
+
 -------------------------------------------------------------------------------
 
 Copyright © 2020 Andrew Trettel

@@ -1,50 +1,183 @@
+absense
 absolute
+absolute frame
+absolute motion
+absolute pressure
+absolute presure
 absolute value
 abstract
 abstraction
 accelerate
+accelerating
+accelerating frame of reference
+accelerating reference frame
 acceleration
+acceleration reaction
+accuracy
+accurate
+acoustic
+acoustic streaming
+acoustical
+acoustics
 act
 action
+active
+active control
+active role
 acute
 acute angle
 add
 addition
+adiabatic
+adjacent
+adverse
+adverse pressure gradient
 aerodynamics
+aerofoil
+aeronautical
+aeronautical engineering
+aeronautics
+aeroplane
+aeroplane wing
+aerospace
+aerospace engineer
+aerospace engineering
+aft
+agreement
 air
 air parcel
+air-filled
+aircraft
+airfoil
+airplane
+airplane wing
+airscrew
 algebra
+align
+alignment
+alternate
+alternating
+alternating symbol
+alternating tensor
+ambient
+ambient fluid
+ambient pressure
 amount
+amount concentration
+amount density
 amount fraction
+amplitude
+analogue
+analoguous
+analogy
 analysis
+analytic
+analytic function
+analytical
+analytical solution
 analyze
 angle
 angle cosine
+angle of attack
+angle of impingement
+angle of incidence
+angle of spread
+angular
+angular acceleration
+angular frequency
 angular momentum
+angular speed
+angular velocity
+anisotropic
+anisotropy
+annular
+annulus
+anti-clockwise
+anti-cyclonic
+anti-node
+anti-symmetric
+anti-symmetrical
 antisymmetric
 antisymmetric matrix
 antisymmetric tensor
+apparent
 applied
 applied mathematics
 applied research
+approximate
+approximation
 arbitrarity
 arbitrary
 arc
 arc length
+Archimedes' principle
+Archimedes' theorem
 area
+argument
+aspect ratio
+assume
+assumption
+asymptote
+asymptotic
+asymptotic form
+asymptotic solution
+asymptotic value
+at rest
+atmosphere
+atmospheric
+atmospheric pressure
 atom
 atom balance
 atomic
+attach
+attached
+attached flow
+attached standing eddy
+attenuate
+attract
+attraction
 average
 average velocity
+Avogadro constant
+Avogadro number
+Avogadro's law
+axes
 axial
+axial motion
+axial plane
+axial pressure gradient
+axial speed
+axial symmetry
+axial velocity
+axial vorticity
+axially symmetric
+axially symmetric motion
+axially symmetrical
+axially symmetrical motion
 axiom
 axiomatic
 axis
+axis of rotation
+axis of symmetry
 axisymmetric
 axisymmetric flow
+axisymmetric wake
 axisymmetry
+azimuth
+azimuthal
+azimuthal angle
+azimuthal component
+azimuthal direction
+azimuthal motion
+azimuthal swirl
+azimuthal velocity
+back-flow
+backflow
 background
+background motion
+balance
+balance equation
+balanced
 baroclinic
 barotropic
 barotropic flow
@@ -52,24 +185,103 @@ barotropy
 barycenter
 barycentric
 basic
+basic law
 basic research
 basis
+bbuble size
+beginning
+behavior
 Beltrami flow
+Bernoulli constant
 Bernoulli equation
+Bernoulli surface
 Bernoulli theorem
 Bernoulli's equation
+Bernoulli's theorem
+Bessel function
+beta-plane
+beta-plane approximation
 binary
 binary mixture
+Blasius
+Blasius boundary layer
+Blasius formula
+blow
+blowing
+bluff
+bluff body
+blunt
 body
 body force
+body of revolution
+body of water
+body shape
+body surface
+body-force
+boil
+boiling
+Boltzmann constant
+Boltzmann distribution
+Boltzmann's constant
+bondary-layer
+Borda mouthpiece
+Borda's mouthpiece
+bound vortex
 boundary
 boundary condition
 boundary layer
 boundary layer flow
+boundary layer growth
+boundary layer on a flat plate
+boundary layer separation
+boundary layer thickness
+boundary-layer approximation
+boundary-layer concept
+boundary-layer equation
+boundary-layer equations
+boundary-layer flow
+boundary-layer hypothesis
+boundary-layer separation
+boundary-layer thickness
+bounded
+bounded flow
+boundedness
+bounding
+Boyle's law
+branch
+break away
+breakaway
+breakdown
+bubble
+bubble diameter
+bubble radius
+bubble surface
+bubble volume
+bulk
+bulk modulus of elasticity
+bulk motion
 bulk viscosity
+buoyancy
+buoyancy force
+buoyant
+burst
+bursting
+calculate
+calculation
 calculus
+camber
+cambered
+cambered aerofoil
+cambered airfoil
+cambered Joukowski aerofoil
+cambered Joukowski airfoil
 canon
 canonical
+capillarity
+capillary
+Carnot cycle
+Carnot efficiency
+Carnot heat engine
 Cartesian
 Cartesian coordinate
 Cartesian tensor
@@ -77,348 +289,1027 @@ Cartesian vector
 case
 Cauchy momentum equation
 cause
+cavitation
+cavitation number
+cavity
+cavity formation
+cell
+center
+center line
+center-line
+centerline
+centrifugal
+centrifugal flow
+centrifugal force
+centrifuge
+centrigual fan
 chain rule
+change
 change of phase
 change of variables
 change of variables theorem
+channel
+channel flow
+channel width
+chaos
+chaotic
+character
+characteristic
+characteristic length scale
+characteristic pressure scale
+characteristic time scale
+characteristic velocity scale
+Charles's law
 chemical
+chemical engineer
+chemical engineering
+chemical equilibrium
 chemical potential
 chemical reaction
 chemical species
 chemist
 chemistry
+chord
 Christoffel symbol
+circle
+circle theorem
+circular
+circular cylinder
+circular disk
+circular hole
+circular motion
+circular orifice
+circular streamline
+circular tube
 circulation
+circulatory
+circulatory motion
 classical
+classical mechanics
 classical thermodynamics
 classification
 classify
+clockwise
 closed
+closed curve
+closed flow
+closed surface
+closed system
+closed-form solution
+co-oordinate system
+co-ordinate
+co-ordinate line
+co-ordinate system
+co-ordinate transformation
 coefficient
 coefficient of bulk viscosity
+coefficient of compressibility
 coefficient of shear viscosity
+coefficient of thermal expansion
+coefficient of virtual inertia
 coefficient of viscosity
 cofactor
+coherent
+cohesion
+cohesive
+coincide
+coincident
+collapse
+collection
+collision
 column
 column vector
+combination
+combine
+complete
+complex
+complex conjugate
+complex constant
+complex number
+complex potential
+complex quantity
 component
+component of stress
 composition
+compound
 compress
+compressibility
 compressible
 compressible flow
 compression
+concave
+concentrated
+concentration
 concept
 conceptual
 conclusion
+condensation
+condense
+condensed
+condition
+conduct
+conduction
+conduction of heat
+cone
+conformal
+conformal map
+conformal transformation
 congruent
+conic
+conic section
+conical
+conical body
+conical similarity
 conjugate
+connected
 conservation
+conservation equation
 conservation law
 conservation of energy
 conservation of mass
 conservation of momentum
 conservative
+conservative body force
 conservative force
+consistent
 constancy
 constant
+constant of integration
 constitutive
 constitutive equation
 constitutive relation
+constriction
+contact
+contact angle
+continua
+continual
 continuity
 continuity equation
 continuous
 continuous medium
 continuum
+continuum assumption
+continuum hypothesis
 continuum mechanics
 contract
 contraction
 contravariant
 contravariant vector
+control
+control surface
+control volume
+controllable
 convect
 convected coordinate
 convection
 convective
 convective derivative
+convective rate of change
 convention
+converge
+convergence
+convergent
+convergent flow
+converging
+converging channel
+converging nozzle
+converging streamline
+converging-diverging nozzle
+convex
 coordinate geometry
 coordinate line
 coordinate system
+coordinate transformation
 coplanar
 coplanar vector
+coplex root
+Coriolis effect
+Coriolis force
+Coriolis parameter
+corner
+corner flow
+correspondence
+corresponding
 cosecant
 cosine
 cotangent
+counterclockwise
+counterpart
+couple
 covariant
+coördinate
+coördinate system
+coördinate transformation
 creeping flow
+crest
+criterion
+critical
+critical point
+critical Reynolds number
+critical value
+Crocco's relation
 cross product
+cross section
+cross-current
+cross-section
+cross-sectional area
+cube
+cubic
 curl
+current
 curvature
 curve
+curved
+curved free surface
+curved line
+curved path
+curved wall
+curvilinear
+curvilinear co-ordinate
+curvilinear coordinate
+cusp
+cycle
+cyclic
+cyclic order
+cyclonic
 cylinder
 cylindrical
+cylindrical body
 cylindrical coordinate
+cylindrical coordinates
+cylindrical polar co-ordinates
+cylindrical polar coordinates
+D'Alembert's paradox
+d'Alembert's paradox
+damp
+damping
+Darcy's law
+decay
+decaying
+deceleration
 decompose
 decomposition
+decreate
 deduce
 deduction
 deep
+definite
 deform
+deformability
 deformation
 deformation tensor
 degree
+delta wing
+denominator
 density
+departure
 depend
+dependence
 dependent
+dependent variable
 depth
+derivation
 derivative
+derive
 description
+detach
+detached
+detached boundary layer
+detachment
+detachment point
 determinant
 develop
 development
+deviatoric
+deviatoric stress
+deviatoric stress tensor
+diabatic
+diagonal
+diagonal element
+diameter
 diatomic
 diatomic gas
 diatomic molecule
+difference
 differential
 differential equation
+differential operator
 diffusion
+diffusion coefficient
 diffusion equation
+diffusion of momentum
+diffusivity
 dilatation
 dilatation rate
 dimension
 dimensional
 dimensional analysis
+dimensionality
 dimensionless
+dimensionless function
 dimensionless number
+dimensionless parameter
 dimensionless variable
+dipole
 direct
+direct measurement
+direct numerical simulation
 direction
 directional
+discharge
 discontinuity
 discontinuous
+discrete
+disk
+dispersion
+dispersion relation
+displaced
+displaced fluid
+displacement
+displacement thickness
+dissipate
 dissipation
+dissipation of energy
 dissipation rate
+distance
+distortion
+distory
+distribution
+disturb
+disturbance
+disturbed
+diverge
 divergence
 divergence theorem
+divergent
+divergent flow
+diverging
+diverging channel
+diverging nozzle
+diverging streamline
 divide
 division
+dominant
+dominate
 dot product
+doublet
+doublet strength
+doubly-connected
+downstream
+downstream condition
+downwash
+downwind
+drag
+drag coefficient
+drag force
+drag froce
+drag reduction
+drift
+drop
+droplet
+duct
+duct flow
 dummy index
 dyadic
+dynamic
+dynamic similarity
 dynamic viscosity
 dynamical
+dynamical equation
+dynamical instability
+dynamical property
+dynamical similarity
+dynamically similar
 dynamics
+dynamics of vorticity
+eddies
+eddy
+eddying motion
+edge
 effect
+effect of compressibility
+effect of viscosity
+effective
+effective kinematic viscosity
+effective viscosity
+efficiency
+efflux
 eigenfunction
 eigenvalue
 eigenvector
+eject
+ejection
+Ekman layer
+Ekman spiral
 elastic
 elasticity
+electromagnetic
+electromagnetic field
 element
 elementary
 elementary particles
+eliminate
+elimination
+ellipse
+ellipsoid
+ellipsoid of revolution
+elliptic
+elliptic co-ordinates
+elliptic coordinates
+elliptic cylinder
+elliptical
+empirical
+empiricism
 energy
+energy balance
 energy conservation
+energy conservation equation
 energy equation
 engineer
 engineering
 engineering science
+enlargement
 enthalpy
 entity
 entropy
+entropy-preserving
 entry
+envelope
 equal
 equality
 equate
 equation
 equation of continuity
 equation of motion
+equation of state
+equations of motion
 equilibrate
 equilibrium
+equilibrium pressure
+equipartion
+equipartion of energy
+estimate
+estimation
 Euclidean
 Euclidean geometry
 Euclidean space
 Euler equations
 Eulerian description
+Eulerian form
+Eulerian specification
+even
+even function
+evidence
+exact
+exact solution
 example
+exchange
+exert
 existence
 expand
+expanding
 expansion
+expansion rate
+expansion viscosity
+experiment
+experimental
+experimental evidence
+experimental flow system
 explicit
+explicit solution
 exponent
 exponentation
+exponential
+expression
 extension
+extensive
+extensive property
+extensive quantity
+extensive variable
+extensivity
+exterior
 external
 external flow
+external influence
+external stream
+external stream velocity
+external velocity
+face
 fact
+factor
+factual
+Falkner-Skan similarity solution
+fall
 false
+fan
 far
 far-field
+fast
+favorable pressure gradient
 Fick's law
+fictitious
+fictitious body force
+fictitious force
 field
 field theory
 finite
+finite difference
+finite difference approximation
+finite difference method
+finite disk
 first
+first coefficient of viscosity
 first law of thermodynamics
 first order
+first principle
+first-order
+first-order motion
+fixed axes
+fixed axis
 fixed volume
+flat plate
+flat plate boundary layer
+float
+floating body
 flow
+flow field
+flow mechanism
+flow oscillation
+flow parameter
+flow pattern
+flow property
+flow quantity
 flow rate
+flow regime
+flow régime
+flow system
+flow variable
+flow velocity
+fluctuate
+fluctuating
+fluctuation
 fluid
+fluid at rest
 fluid dynamics
 fluid element
+fluid impulse
 fluid mechanics
 fluid motion
 fluid parcel
 fluid property
+fluidity
 flux
+flux of volume
 force
+force of gravity
+fore
 form
+form drag
+forward integration
 forward reaction
+Foucault pendulum
 foundation
 foundational
+Fourier component
+Fourier series
 Fourier's law
+fraction
+fractional
 frame
 frame of reference
+free
+free boundary
+free convection
+free energy
+free enthalpy
+free fall
+free shear layer
+free streamline
+free surface
+free-stream
+free-stream value
+free-stream velocity
+free-streamline theory
+freestream
+freestream value
+freestream velocity
+frequency
+friction
+friction drag
+frictional
+frictional force
+frictional stress
+frictional stress at the wall
+frictionless
+Froude number
 fuel
 function
+functional
 fundamental theorem of algebra
 fundamental theorem of calculus
+future
 gas
+gas bubble
+gas constant
+gas dynamics
+gaseous
+gaseous phase
 Gauss's theorem
 general
 generality
+generation of vorticity
 geodesic
 geodesic coordinate
 geometric
 geometrical
 geometry
+geophysical
+geophysics
+geostrophic
+geostrophic flow
+geostrophic wind
+Gibbs free energy
+global
+governing
+governing equation
 gradient
+gradient wind
+gravitational
+gravitational field
+gravitational force
+gravitational potential energy
+gravity
+gravity wave
 Green's theorem
+ground
 group
+grow
+growing
+growth
+growth rate
+half
+Hamiltonian
+harmonic
+harmonic function
+harmonic motion
+harmonic wave
+harmonics
 heat
 heat capacity
 heat capacity at constant pressure
 heat capacity at constant volume
+heat conduction
+heat convection
+heat engine
 heat equation
 heat of reaction
+heat transfer
 height
+Hele-Shaw cell
+Hele-Shaw flow
+helical
+helical flow
+helix
 Helmholtz decomposition
+Helmholtz free energy
 Helmholtz' representation
+hemisphere
+hemispherical
+hemispherical cavity
+heuristic
+high pressure
+high Reynolds number
+high speed
+Hill's spherical vortex
+history
+hole
+homenergic
+homentropic
+homentropic flow
+homentropic flow field
 homogeneity
 homogeneous
+homogeneous fluid
 horizontal
+horizontal co-ordinate
+horizontal component
+horizontal coordinate
+horizontal layer
+horizontal pressure gradient
+hydraulic engineer
+hydrodynamic
+hydrodynamic stability
 hydrodynamics
 hydrostatic
 hydrostatic pressure
 hydrostatics
+hyperbola
+hyperbolic
 hypothesis
+hypothetical
+ideal fluid
 ideal gas
 ideality
+identical
+identity
+imaginary
+imaginary constant
+imaginary number
+imaginary part
+imaginary quantity
+imaginary root
+imaginary unit
+immerse
+immersion
+impact
+impinge
+impingement
+impingement angle
 implicit
+implicit solution
+impulse
+impulsive
+impulsive motion
+in-flow
+inclination
+incline
+inclined
+incompressibility
 incompressible
 incompressible flow
 incompressible fluid
+incompressible viscous fluid
+inconsistent
+increase
+indefinite
+independence
 independent
+independent variable
+independent variables
 index
+induced drag
+induced drag force
 induction
+industrial
+industry
 inequality
+inert
 inertia
+inertia force
+inertia term
+inertial
 infinite
+infinite disk
+infinite Reynolds number
 infinitesimal
 infinity
+inflection
+inflection point
+inflow
+influence
+influential
 initial
+initial condition
 inner
+inner edge
+inner layer
 inner product
+inspection
+instability
+instant
+instantaneous
+instrument
 integral
+integral form
+integrand
 integration
+intensification
+intensity
+intensive
+intensive property
+intensive quantity
+intensive variable
+intensivity
 interact
 interaction
 interface
 interfacial
+interior
+intermolecular
 internal
 internal energy
 internal flow
+internal friction
 interpret
 interpretation
+intersect
+intersection
+interval
+intially irrotational
+intrinsic
+intuitive
 invariance
 invariant
 inverse
 inverse transformation
+investigate
+investigation
 inviscid
 inviscid flow
 inviscid fluid
+inviscid fluid flow
+inviscid-fluid theory
+invisible
+inward
+irreducible
+irregular
+irregularity
 irreversibility
 irreversible
 irrotational
 irrotational flow
+irrotational flow theory
 irrotational motion
+irrotational solenoidal flow
+irrotational stream
 irrotational vector field
+irrotationality
 isentropic
 isentropic flow
 isobaric
 isobaric heat capacity
 isochoric
 isochoric heat capacity
+isolated
+isolated system
+isolated vortex
+isolation
+isothermal
 isotropic
+isotropic compression
 isotropic fluid
 isotropic tensor
 isotropy
+issue
+iterate
+iteration
+iterative
+iterative process
+iterator
 Jacobian
 Jacobian determinant
 Jacobian matrix
+Jeffery-Hamel flow
+jet
+jet engine
+jet impingement
+Joukowski aerofoil
+Joukowski airfoil
+Joukowski theorem
+Joukowski transformation
+Joukowski's hypothesis
+Joukowski's theorem
+jump
+Kelvin's circulation theorem
+Kelvin's minimum energy theorem
 Kelvin's theorem of circulation
 kinematic
+kinematic property
 kinematic viscosity
 kinematical
+kinematical property
 kinematics
 kinetic
 kinetic energy
 kinetic theory
+kinetic theory of gases
+kinetic theory of liquids
 Kronecker delta
+Kronecker delta tensor
+Kundt's dust tube
+Kundt's tube
+Kutta condition
+Kutta-Joukowski theorem
+lab frame
+laboratory
+laboratory frame of reference
+laboratory reference frame
 Lagrangian coordinate
 Lagrangian description
+Lagrangian form
+Lagrangian specification
 laminar
 laminar flow
 Laplace equation
 Laplace's equation
 Laplacian
+large-scale
 lateral
+lateral dimension
+lateral gradient
+lateral plane
+latitude
+Laurent series
 law
 law of thermodynamics
 layer
+leading edge
+lee
+left-hand side
+Legendre polynomial
 length
+length scale
+lift
+lift force
+lift reduction
+lifting
+lifting body
+lifting line
+lifting surface
+lifting-line
+lifting-line theory
+limiting
+limiting form
 line
+line element
 line integral
+line segment
+line vortex
 linear
 linear algebra
+linear combination
+linear dimension
 linear equation
+linear function
 linear momentum
 linearity
+linearize
+linearized
 liquid
+liquid phase
 local
 locality
+localize
+localized
+longitude
+longitudinal
+loop
+Loschmidt constant
+Loschmidt's number
+low pressure
+low Reynolds number
+low speed
 lower
+lower boundary
+lower surface
+lubricate
+lubrication
+lubrication theory
+Mach number
+macroscopic
+macroscopic property
 magnetic
 magnetohydrodynamics
 magnitude
+Magnus effect
 manipulate
+many-valued
+map
 mass
 mass balance
+mass concentration
 mass conservation
+mass conservation equation
 mass density
 mass flow rate
 mass flux
 mass fraction
+mass transfer
+mass-conservation equation
+matching
+matching condition
 material
+material boundary
 material coordinate
+material curve
 material derivative
 material description
 material element
+material integral
+material line element
 material parcel
 material property
+material surface
+material surface element
+material tube
 material volume
+material volume element
+material vortex-tube
 mathematical
+mathematical analysis
+mathematical form
 mathematical model
+mathematical result
 mathematical theory
 mathematician
 mathematics
@@ -427,16 +1318,52 @@ matrix algebra
 matrix inverse
 matrix transpose
 matter
+maximum
+maximum pressure
+maximum velocity
+Maxwell relations
+Maxwell's relations
+Maxwell's thermodynamic relations
+mean speed
+measure
+measurement
 mechanical
+mechanical energy
+mechanical engineer
+mechanical engineering
+mechanical equilibrium
 mechanical pressure
+mechanical system
 mechanics
+mechanism
 medium
+meteorological
+meteorologist
+meteorology
 metric
 metric tensor
+microscopic
+microscopic property
+minimum
+minimum pressure
+minimum velocity
+mist
+mist droplet
+mix
+mixing
+mixing layer
 mixture
+mode
+mode of heat transfer
 model
+model test
 modeling
+modified pressure
+modulus of elasticity
+molar concentration
+molar density
 molar flux
+molar gas constant
 molar heat
 molar heat capacity
 molar heat capacity at constant pressure
@@ -446,58 +1373,192 @@ molar isochoric heat capacity
 mole
 mole fraction
 molecular
+molecular diffusion
+molecular viscosity
 molecule
+moment
 moment of momentum
 momentum
 momentum conservation
+momentum conservation equation
+momentum equation
+momentum integral
+momentum integral relation
+momentum theorem
+momentum thickness
+momentum transport
 monatomic
 monatomic gas
 monatomic molecule
 motion
+motion of fluids
+mouthpiece
+move
+movement
+moving
+moving body
+moving boundary
+moving frame of reference
+moving sphere
 multiple integration
 multiplication
 multiply
+narrow
+narrow jet
+narrowness
 natural
 nature
 Navier-Stokes equations
 near
 necessary
 negative
+negative constant
+negative pressure gradient
+negative root
+neglect
+neglected term
+negligible
+neighbor
+neighboring
+neighboring point
+net
+net flux
+Newton's first law
+Newton's second law
+Newton's third law
 Newtonian
 Newtonian fluid
+no slip
+no-flow-through condition
+no-penetration condition
+no-slip condition
+nodal
+nodal point
+node
+non-circular
+non-diagonal
+non-diagonal element
+non-dimensional
+non-dimensional number
+non-dimensional quantities
 non-equilibrium
 non-Euclidean
 non-Euclidean geometry
 non-ideality
+non-isotropic
+non-lifting body
+non-linear partial differential equation
+non-linearity
 non-locality
+non-negative
+non-Newtonian
+non-Newtonian fluid
+non-singular
+non-singular point
+non-spherical
+non-sphericity
+non-uniform
+non-uniformity
+non-zero
+non-zero component
+nonconducting
 nondimensional
+nondimensional quantities
 nonlinear
 nonlinear equation
 nonlinearity
+nonlocal
 nonvanishing
+normal
+normal component
+normal force
+normal stress
 normal vector
+northern hemisphere
+nose
 notation
 notion
+nozzle
+nozzle flow
 number
+numerator
+numerical
+numerical integration
+numerical solution
+numerical value
+oblate
+oblate ellipsoid
+observable
+observation
+observed
 obstacle
 obtuse
 obtuse angle
 obvious
+ocean
+oceanic
+odd
+odd function
+ogive
 one-dimensional
+one-dimensional flow
+one-dimensionality
+onset
+onset of turbulence
 open
+open channel
+open system
+operand
+operation
+operator
+oppose
+opposite
+order
+order of operations
+order-of-magnitude
 ordinary derivative
 ordinary differential equation
+orifice
 origin
 orthogonal
 orthogonal coordinate
 orthogonal coordinate system
+orthogonal curvilinear co-ordinate
+orthogonal curvilinear coordinate
 orthogonality
+oscillate
+oscillating
+oscillating boundary layer
+oscillating flow
+oscillation
+oscillatory
+oscillatory boundary layer
+Oseen approximation
+Oseen equations
+Oseen flow
+Oseen's approximation
+Oseen's equations
+Oseen's improvement
+out-flow
 outer
+outer edge
+outer layer
 outer product
+outflow
+outward
+oval
+ovoid
 oxidizer
+pair
+parabola
+parabolic
 paradox
 paradoxical
 parallel
+parameter
+parameters of state
+parametric
+parcel
 parenthetical
 part
 partial
@@ -507,42 +1568,99 @@ partial differential equation
 partial differentiation
 particle
 particle path
+passive
+passive control
+passive role
+past
+path
+path independence
+path-dependent
+path-independent
+pattern
+pattern of flow
+peak
 pedagogical
 pedagogy
+pendulum
 perfact gas
 perfect fluid
+perfect gas
+period
+periodic
+periodicity
 permutation
 permutation symbol
 perpendicular
+perturb
+perturbed
 phase
 phase change
+phase velocity
 phenomenological
 phenomenology
 phenomenon
+photograph
+photography
 physical
+physical difference
 physical law
+physical properties
+physical property
 physical quantity
 physical theory
 physicist
 physics
 piece-wise
 piecewise
+pipe
+pipe flow
+Pitot tube
+Pitot-static tube
 place
 planar
 planar flow
 plane
+plane boundary
 plane flow
+plane jet
+plane of flow
+plane sheet vortex
+plane sound wave
+plane wall
+planet
+planetary
+planetary wave
+plate
+plate thickness
 point
+point mass
+point of inflection
+point of separation
+point of view
+point sink
+point source
 point transformation
+point vortex
+point vortices
+Poiseuille flow
 Poisson's equation
 polar
+polar co-ordinates
 polar coordinate
+polar coordinates
+pole
 polyatomic
 polyatomic gas
 polyatomic molecule
+porous
+porous medium
+porous wall
 position
 position vector
 positive
+positive constant
+positive pressure gradient
+positive root
 potential
 potential energy
 potential flow
@@ -550,129 +1668,365 @@ potential theory
 power
 power law
 power rule
+power series
+practical
+practice
+presence
+present
 pressure
+pressure change
+pressure difference
+pressure drop
+pressure gradient
+pressure impulse
 pressure Poisson equation
-principle
-principle axis
+pressure scale
+principal
+principal axis
+principal stress
 problem
+process
+produce
 product
 product rule
+production
+profile
+progress
+progressive
+progressive wave
+projected
+projected area
+projectile
+projectile motion
+projection
+propagate
+propagation
 proper
 property
+proportional
+proportionality
+propulsion
+Proudman's theorem
+puff
 pure
 pure mathematics
 pure number
+pure science
+pure scientist
 pure shear
 pure shear flow
+pure strain
 pure stretching
+pure tone
+qualitative
+quality
 quantify
+quantitative
 quantity
 quantity of heat
+quantity of interest
 quantity of work
 quantize
 quantized
 quantum
 quantum mechanics
+quasi-stationary
 quotient rule
+radial
+radial distance
+radial motion
+radial position
 radian
+radiate
+radiation
+radii
+radius
+radius of curvature
 random
 rank
 rank of tensor
+Rankine half-body
+Rankine ovoid
 rate
+rate of change
 rate of dissipation
+rate of expansion
 rate of formation
+rate of in-flow
+rate of inflow
+rate of out-flow
+rate of outflow
 rate of reaction
 rate of strain
+rate of strain tensor
+rate-of-strain
+rate-of-strain tensor
+ratio
 react
 reactant
 reacting
 reacting fluid
 reaction
+reaction force
 reaction rate
+reacttachment
+real constant
+real fluid
 real gas
+real number
+real part
+real quantity
+rear
+rear stagnation point
+reattach
 reciprocal
 rectangle
 rectangular
+rectangular axis
+rectangular coordinates
+rectilinear
+rectilinear axis
+rectilinear co-ordinate
+rectilinear co-ordinates
+rectilinear coordinate
+rectilinear coordinates
+reduce
+reducible
+reduction
+reduction in drag
+reduction in lift
+redundant
 reference
 reference frame
+regime
 region
+region of separation
 regional
+regular
+regularity
 relate
 relation
 relative
+relative motion
+relative pressure
 relativity
 repeated index
 repetition
 represent
 representation
+representative
+repulsion
+resist
+resistance
+rest
+restore
+restoring
+restoring effect
 result
+resultant
+resultant force
+resulting
+retard
+retardation
+retarded
+retarded layer
 reversibility
 reversible
+revolution
+revolve
 Reynolds number
+Reynolds transport theorem
 Reynolds' transport theorem
 right
 right angle
+right-hand side
+rigid
 rigid body
 rigid body motion
+rigid boundary
+rigid plane boundary
+rigid sphere
+rigid-body rotation
+rim
+ring
+rise
+role
+root
+Rossby number
+Rossby wave
 rotate
+rotating
+rotating axes
+rotating axis
+rotating disk
+rotating fluid
+rotating frame
+rotating frame of reference
+rotating reference frame
 rotation
 rotation tensor
 rotational
 rotational flow
+rotational mode
 rotational motion
+rotational speed
+rotationality
 rough
 roughness
 roughness element
+round jet
 row
 row vector
+rubber
 rule
+régime
+salient edge
+sand
 satisfy
+saturated
+saturation
 scalar
+scalar equation
 scalar field
 scale
 scale invariance
+scaling
 scalr product
 science
 scientific
 scientist
+scope
+sea
+sea bed
 secant
 second
+second coefficient of viscosity
 second law of thermodynamics
 second order
+second-order tensor
+secondary flow
+secondary motion
+secord-order
+secord-order motion
+sediment
+sedimentation
+segment
+self
+self-consistent
+self-induced
+self-similar
+self-similarity
+semi-angle
+semi-ellipsoid
+semi-infinite
+semi-infinite body
+semi-thickness
+separated boundary layer
+separated flow
+separation
+separation point
+separation region
+series
+series expansion
+series solution
+settle
+settling
+shallow
+shape
+shape factor
+sharp
+sharp edge
+sharp leading edge
+sharp trailing edge
 shear
+shear layer
 shear strain
 shear stress
 shear viscosity
+shearing
+shed vorticity
+sheet
+sheet jet
+sheet vortex
+shock
+shock wave
+short cut
+shortcut
 side
+side-force
 sign
 sign convention
+significant
+similarity
+similarity coordinate
+similarity solution
+simple harmonic wave
 simple shear
 simple shear flow
+simple shearing motion
+simple source
+simplification
+simplify
 simultaneous
 sine
+singly-connected
+singly-connected region
 singular
 singular matrix
+singularity
+sink
+sinusoidal
+size
 skew-symmetric
 skew-symmetric matrix
 skew-symmetric tensor
+skin
+skin friction
+slender
+slender body
+slender body of revolution
+slender-body theory
+slenderness
+slip
+slipping
+slope
+slow
+small-scale
+smoke
+smoke ring
 smooth
 solenoidal
+solenoidal flow
 solenoidal vector field
 solid
+solid angle
 solid body
+solid boundary
+solid phase
+solid surface
+solid wall
 solid-body rotation
 solution
 solve
+solved
+solved problem
 sound
+sound wave
+source
+source doublet
+source strength
+southern hemisphere
 space
 space curve
 spatial
 spatial coordinate
+spatial derivative
 spatial description
 special
 specific
 specific enthalpy
 specific entropy
+specific gas constant
 specific heat
 specific heat capacity
 specific heat capacity at constant pressure
@@ -680,45 +2034,138 @@ specific heat capacity at constant volume
 specific internal energy
 specific isobaric heat capacity
 specific isochoric heat capacity
+specific total enthalpy
+specific total internal energy
+specific volume
+spectra
+spectral
+spectrum
 speed
 speed of sound
 sphere
+sphere diameter
 spherical
+spherical bubble
+spherical cavity
 spherical coordinate
+spherical gas bubble
+spherical polar co-ordinates
+spherical polar coordinate
+spherical polar coordinates
+sphericity
+spiral
+splash
+spread
+spread angle
+spreading
+spreading angle
+spreading line vortex
 square
 square matrix
+stability
+stable
+stagnate
+stagnation
+stagnation enthalpy
+stagnation internal energy
+stagnation point
+stagnation point flow
+stall
+stalled
+standing eddy
+standing sound wave
+standing wave
+starting flow
+starting vortex
+state
+state parameter
+state parameters
+state variable
+static pressure
+static-fluid
+static-fluid pressure
 station
 stationary
+statistical
+statistical thermodynamics
+statistics
 steadiness
 steady
+steady boundary layer
 steady compressible flow
+steady entropy-preserving inviscid flow
 steady flow
 steady incompressible flow
+steady jet
+steady rotation
+steady state
+steady streaming
+steady-state
+steady-state cavity
 stochastic
 stoichiometric
 stoichiometric coefficient
 stoichiometric relation
 stoichiometry
+Stokes approximation
+Stokes equations
+Stokes flow
+Stokes stream function
 Stokes' hypothesis
 Stokes' relation
 Stokes' theorem
+Stokes's law
+Stokes's theorem
 Stokesian fluid
+Stokeslet
+straight line
 strain
+strain history
 strain rate
+strain rate tensor
+strain rotation
+streak
+streak line
 streakline
+stream
 stream function
+stream surface
 stream tube
+stream velocity
+stream-tube
+stream-wise
+stream-wise dimension
+stream-wise vorticity
+streaming
+streaming motion
 streamline
+streamline pattern
+streamlined
+streamlining
 streamwise
+streamwise dimension
+streamwise vorticity
+strength
 stress
+stress balance
+stress component
 stress tensor
 stretch
 stretching
+strip
+Strouhal number
+structural
+structure
+sub-range
+subject
 substance
 substantial
 substantial derivative
 subtract
 subtraction
+suck
+suction
+sudden
 sufficient
 summation
 summation convention
@@ -727,23 +2174,51 @@ superposition
 superposition principle
 surface
 surface area
+surface element
 surface force
 surface integral
+surface streamline
 surface tension
+surface tension stress
+surface wave
+surrounding
+sweep-back
+swept wing
+swept-back wing
+swirl
+swirling
+swirling motion
 symbol
 symbolic
 symmetric
+symmetric aerofoil
+symmetric airfoil
 symmetric matrix
 symmetric tensor
+symmetrical
+symmetrical aerofoil
+symmetrical airfoil
 symmetry
 system
 system of coordinates
+system of coördinates
 system of equations
 system of units
 tangent
 tangent vector
+tangential
+tangential component
+tangential stress
+tangential velocity
+Taylor column
+Taylor series
+Taylor-Proudman theorem
 technical
+technological
+technology
 temperature
+temperature difference
+temperature distribution
 tense
 tension
 tensor
@@ -752,42 +2227,139 @@ tensor field
 tensor rank
 tensorial
 term
+terminal
+terminal speed
+terminal velocity
 ternary
 ternary mixture
+tetrahedron
 theorem
 theoretical
+theoretical relation
 theory
+theory of lift
+thermal
+thermal conductivity
+thermal diffusivity
+thermal equilibrium
+thermal expansion
+thermal expansion coefficient
+thermal up-current
 thermodynamic
+thermodynamic cycle
+thermodynamic equation of state
+thermodynamic equilibrium
 thermodynamic pressure
+thermodynamic state
 thermodynamics
+thermometric conductivity
 thermostatic
+thick
+thicken
+thickening
+thickness
+thin
+thin aerofoil
+thin airfoil
+thin boundary layer
+thin layer
+thin shear layer
 three-dimensional
+three-dimensional body
+three-dimensional field
+three-dimensional flow
+three-dimensional jet
+three-dimensionality
+thrust
 time
+time scale
+time-dependence
 time-dependent
+tip vortex
+tone
+tornado
+toroid
+toroidal
 torque
+Torricelli's law
+Torricelli's theorem
 torsion
+total
 total differential
+total drag
+total enthalpy
+total internal energy
+trace
+trailing edge
+trailing vortex
+trailing vortex system
+trailing vortices
 transform
 transformation
+transition
+transition to turbulence
+transition to turbulent flow
+transitional
+transitional layer
 translation
+translational mode
+translational motion
+translational speed
 transport
+transport equation
+transport of momentum
+transport pheneomenon
 transport phenomenon
+transport theorem
+transportable
+transportable quantity
 transpose
 transverse
+triangle
+triangular
 trigonometric
+trigonometric function
 trigonometry
+triple point
 triple scalar product
 triple vector product
 true
 truth
 tube
+tube surface
+tube wall
+tunnel
 turbulence
 turbulent
 turbulent flow
+turbulent fluctuation
+turbulent mixing
+turbulent motion
+turbulent wake
 two-dimensional
+two-dimensional body
+two-dimensional field
+two-dimensional flow
+two-dimensional flow field
+two-dimensional jet
+two-dimensional motion
+two-dimensional narrow jet
+two-dimensionality
+type
+unbounded
+unbounded flow
 uncertainty
 uncertainty principle
+undisturbed
+unidirectional
+unidirectional flow
 uniform
+uniform density
+uniform flow
+uniform incompressible fluid
+uniform stream
+uniform tension
+uniform viscosity
 uniformity
 unique
 unique solution
@@ -796,42 +2368,155 @@ unit
 unit basis
 unit basis vector
 unit Cartesian vector
+unit normal
 unit system
 unit vector
+unity
+unsolved
+unsolved problem
+unstable
 unsteadiness
 unsteady
+unsteady boundary layer
+unsteady flow
+unsteady motion
+unswept wing
+up-current
 upper
+upper boundary
+upper surface
+upstream
+upstream condition
+upstream history
+upwash
+upwind
+vacuum
 valid
 validity
 value
+van der Waals' equation
 vanish
 vanishing
+vapor
+vapor phase
 variable
 variant
 variation
+vary
 vector
+vector equation
 vector field
+vector identity
+vector length
+vector magnitude
+vector potential
 vector product
 velocity
+velocity component
+velocity distribution
+velocity field
 velocity gradient
 velocity gradient tensor
+velocity magnitude
+velocity potential
+velocity profile
+velocity scale
+velocity vector
+vena contracta
+Venturi effect
+Venturi tube
+vertex
+vertex angle
 vertical
+vertical co-ordinate
+vertical component
+vertical coordinate
+vertical plane
+vertical tube
+vertical velocity
+vessel
+vibrate
+vibrating
+vibration
 viscosity
+viscosity effect
 viscous
+viscous diffusion
 viscous flow
 viscous fluid
+viscous force
+viscous incompressible fluid
+viscous incompressible fluid of uniform density
+viscous stress
+visible
+void
 volume
 volume flow rate
+volume force
 volume integral
 volumetric
 volumetric flow rate
 vortex
+vortex breakdown
+vortex bursting
+vortex doublet
 vortex line
+vortex loop
+vortex motion
+vortex pair
+vortex radius
+vortex ring
+vortex shedding
+vortex street
+vortex strength
+vortex system
 vortex tube
+vortex-line
+vortex-tube
+vortices
 vorticity
+vorticity component
+vorticity distribution
+vorticity dynamics
+vorticity generation
+vorticity layer
+vorticity vector
+wake
 wall
+wall stress
 water
+water droplet
+water hammer
+water-hammer pressure
+wave
+wave crest
 wave equation
+wave motion
+wave propagation
+wave-number
+wave-number magntitude
+wave-number vector
+wavelength
+wedge
 weight
+weir
+wettability
+wetting
+wide
 width
+wind
+wind tunnel
+wind tunnel stream
+wind velocity
+wing
+wingtip
+wingtip device
+wingtip vortex
+wire
 work
+yaw
+yawed cylinder
+zero
+zero drag
+zero frictional stress
+zero wall friction
