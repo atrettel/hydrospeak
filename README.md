@@ -17,6 +17,8 @@ Works consulted for the English word list
 
 - Batchelor 1967, "An Introduction to Fluid Dynamics"
 
+- Birkhoff 1960, "Hydrodynamics"
+
 - Landau and Lifshitz 1987, "Fluid Mechanics"
 
 -------------------------------------------------------------------------------
