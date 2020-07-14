@@ -15,9 +15,15 @@ Works consulted for the English word list
 
 - Aris 1962, "Vectors, Tensors, and the Basic Equations of Fluid Mechanics"
 
+- American Standards Association 1954, "Letter Symbols for Aeronautical
+  Sciences", ASA-Y10.7-1954
+
 - Batchelor 1967, "An Introduction to Fluid Dynamics"
 
 - Birkhoff 1960, "Hydrodynamics"
+
+- British Standards Insitution 1961, "Recommendations for Letter Symbols, Signs
+  and Abbreviations, Part 3. Fluid Mechanics", BS-1991-PT3-1961
 
 - Landau and Lifshitz 1987, "Fluid Mechanics"
 

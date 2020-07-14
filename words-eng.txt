@@ -11,7 +11,9 @@ absolute instability
 absolute motion
 absolute pressure
 absolute space
+absolute temperature
 absolute value
+absolute viscosity
 absolute zero
 absorb
 absorption
@@ -25,6 +27,7 @@ accelerating
 accelerating frame of reference
 accelerating reference frame
 acceleration
+acceleration due to gravity
 acceleration reaction
 accuracy
 accurate
@@ -48,6 +51,7 @@ add
 added
 added mass
 addition
+additional
 additive
 adhere
 adiabatic
@@ -59,11 +63,13 @@ adjacent
 adverse
 adverse pressure gradient
 aerodynamic
+aerodynamic center
 aerodynamicist
 aerodynamics
 aerofoil
 aeronautical
 aeronautical engineering
+aeronautical science
 aeronautics
 aeroplane
 aeroplane wing
@@ -75,13 +81,16 @@ affine transformation
 aft
 agree
 agreement
+aileron
 air
 air parcel
 air speed
 air-filled
 air-speed
 aircraft
+aircraft component
 airfoil
+airfoil section
 airfoil theory
 airplane
 airplane wing
@@ -122,15 +131,20 @@ angle of attack
 angle of contact
 angle of impingement
 angle of incidence
+angle of pitch
 angle of reflection
+angle of roll
+angle of sideslip
 angle of spread
 angle of stall
+angle of twist
 angle of yaw
 angular
 angular acceleration
 angular component
 angular frequency
 angular momentum
+angular relationship
 angular speed
 angular velocity
 anion
@@ -174,6 +188,7 @@ arc length
 Archimedes' principle
 Archimedes' theorem
 area
+area moment of inertia
 argument
 array
 artillery
@@ -210,7 +225,12 @@ attraction
 attractor
 automodel
 auxiliary
+availability
+available
 average
+average skin friction
+average skin friction coefficient
+average surface friction coefficient
 average velocity
 averaging
 Avogadro constant
@@ -218,6 +238,7 @@ Avogadro number
 Avogadro's law
 axes
 axial
+axial component
 axial coordinate
 axial flow
 axial motion
@@ -239,6 +260,7 @@ axially symmetrical supersonic flow
 axiom
 axiomatic
 axis
+axis convention
 axis of rotation
 axis of symmetry
 axisymmetric
@@ -268,24 +290,31 @@ ballistic trajectory
 ballistics
 balloon
 band
+bank
 baroclinic
 barodiffusion
 barodiffusion coefficient
+barometer
+barometric
 barotropic
 barotropic flow
 barotropy
 barrel
 barycenter
 barycentric
+base
 basic
 basic law
 basic research
 basic vector
 basis
 bbuble size
+bed
 beginning
 behavior
 Beltrami flow
+bend
+bending
 Bernoulli constant
 Bernoulli equation
 Bernoulli surface
@@ -299,10 +328,15 @@ bifurcation
 binary
 binary mixture
 binomial
+blade
+blade angle
+blade thickness
+blade width
 Blasius
 Blasius boundary layer
 Blasius formula
 blow
+blower
 blowing
 bluff
 bluff body
@@ -310,6 +344,8 @@ blunt
 blunt body
 blunt-ended body
 body
+body axes
+body axis
 body force
 body of revolution
 body of water
@@ -333,6 +369,7 @@ boundary
 boundary condition
 boundary layer
 boundary layer control
+boundary layer edge
 boundary layer flow
 boundary layer growth
 boundary layer heat transfer
@@ -366,6 +403,7 @@ bow shock
 bow wave
 Boyle's law
 branch
+breadth
 break
 break away
 break up
@@ -389,6 +427,7 @@ Buckingham theorem
 buffer
 buffer layer
 bulk
+bulk modulus
 bulk modulus of elasticity
 bulk motion
 bulk viscosity
@@ -401,6 +440,7 @@ burn
 burned
 burned gas
 burned mixture
+burner
 burning
 burning mixture
 burnt
@@ -409,10 +449,14 @@ burnt mixture
 burst
 bursting
 calculate
+calculated
 calculation
 calculus
+calibrate
+calibrated
 calorically perfect gas
 camber
+camber ratio
 cambered
 cambered aerofoil
 cambered airfoil
@@ -438,6 +482,7 @@ case
 case study
 cation
 Cauchy momentum equation
+Cauchy number
 Cauchy-Riemann condition
 causation
 cause
@@ -450,6 +495,7 @@ cellular
 cellular structure
 center
 center line
+center of pressure
 center-line
 centered rarefaction
 centered rarefaction wave
@@ -461,10 +507,13 @@ centred rarefaction wave
 centrifugal
 centrifugal flow
 centrifugal force
+centrifugal pump
 centrifuge
 centrigual fan
+certain
 chain of events
 chain rule
+chamber
 change
 change of phase
 change of scale
@@ -491,6 +540,7 @@ characteristic pressure
 characteristic pressure scale
 characteristic surface
 characteristic time scale
+characteristic value
 characteristic velocity
 characteristic velocity scale
 characterize
@@ -508,6 +558,7 @@ chemist
 chemistry
 chord
 Christoffel symbol
+Chézy coefficient
 circle
 circle theorem
 circular
@@ -532,8 +583,10 @@ classical mechanics
 classical thermodynamics
 classification
 classify
+climb
 clockwise
 closed
+closed conduit
 closed contour
 closed curve
 closed end
@@ -551,7 +604,10 @@ coaxial cylinders
 coefficient
 coefficient of bulk viscosity
 coefficient of compressibility
+coefficient of discharge
+coefficient of heat transfer
 coefficient of mass transfer
+coefficient of pressure
 coefficient of shear viscosity
 coefficient of thermal expansion
 coefficient of virtual inertia
@@ -573,7 +629,9 @@ combination
 combine
 combustible
 combustible gas
+combusting
 combustion
+combustion chamber
 combustion product
 combustion reaction
 combustion zone
@@ -589,6 +647,7 @@ complex number
 complex potential
 complex quantity
 complex velocity
+complex velocity potential
 component
 component of stress
 component of velocity
@@ -599,6 +658,7 @@ compress
 compressed
 compressed gas
 compressibility
+compressibility factor
 compressible
 compressible flow
 compressible fluid
@@ -609,6 +669,7 @@ compressible nonviscous flow
 compression
 compression discontinuity
 compressive
+compressor
 concave
 concentrated
 concentration
@@ -629,6 +690,7 @@ conducting
 conduction
 conduction of heat
 conductivity
+conduit
 cone
 conformal
 conformal map
@@ -673,6 +735,7 @@ constriction
 contact
 contact angle
 contact discontinuity
+content
 continua
 continual
 continuity
@@ -724,6 +787,7 @@ conversion factor
 convert
 convex
 convex surface
+coolant
 coordinate
 coordinate axes
 coordinate axis
@@ -740,12 +804,15 @@ Coriolis parameter
 corner
 corner flow
 correct
+corrected
 correction
 correction factor
 correctness
 correlate
 correlation
+correlation coefficient
 correlation function
+correlation length
 correlation tensor
 correspond
 correspondence
@@ -773,6 +840,7 @@ crest
 crisis
 criterion
 critical
+critical conditions
 critical point
 critical Reynolds number
 critical value
@@ -780,14 +848,17 @@ critical velocity
 Crocco's relation
 cross product
 cross section
+cross wind
 cross-current
 cross-force
 cross-section
 cross-sectional area
+crosswind
 crude
 crude model
 crudeness
 cube
+cube root
 cubic
 cubic equation
 cubic expression
@@ -806,6 +877,7 @@ curvilinear coordinate
 cusp
 cycle
 cyclic
+cyclic frequency
 cyclic order
 cyclonic
 cylinder
@@ -842,6 +914,8 @@ deep
 definite
 deflagration
 deflagration wave
+deflect
+deflection
 deform
 deformability
 deformation
@@ -908,6 +982,7 @@ differential equation
 differential operator
 diffract
 diffraction
+diffuser
 diffusion
 diffusion coefficient
 diffusion equation
@@ -916,6 +991,8 @@ diffusion of heat
 diffusion of mass
 diffusion of momentum
 diffusivity
+dihedral
+dihedral angle
 dilatation
 dilatation rate
 dimension
@@ -931,6 +1008,7 @@ dimensionless
 dimensionless coordinate
 dimensionless form
 dimensionless function
+dimensionless measure
 dimensionless number
 dimensionless parameter
 dimensionless quantity
@@ -947,6 +1025,7 @@ direction of motion
 direction of propagation
 directional
 discharge
+discharge coefficient
 discontinuity
 discontinuous
 discontinuous flow
@@ -1012,6 +1091,7 @@ downstream condition
 downstream propagation
 downward
 downwash
+downwash angle
 downwind
 drag
 drag coefficient
@@ -1031,6 +1111,7 @@ dummy suffix
 dust
 dyadic
 dynamic
+dynamic pressure
 dynamic similarity
 dynamic viscosity
 dynamical
@@ -1044,12 +1125,14 @@ dynamical system
 dynamically similar
 dynamics
 dynamics of vorticity
+earth
 eddies
 eddy
 eddy size
 eddy viscosity
 eddying motion
 edge
+edge of boundary layer
 effect
 effect of compressibility
 effect of viscosity
@@ -1057,6 +1140,7 @@ effective
 effective kinematic viscosity
 effective viscosity
 efficiency
+efficient
 efflux
 eigenfrequency
 eigenfunction
@@ -1068,6 +1152,7 @@ ejection
 Ekman layer
 Ekman spiral
 elastic
+elastic modulus
 elasticity
 electromagnetic
 electromagnetic field
@@ -1087,6 +1172,7 @@ elliptic coordinates
 elliptic cylinder
 elliptical
 emission of sound
+emissivity
 empirical
 empiricism
 emulsion
@@ -1102,6 +1188,7 @@ energy equation
 energy flux
 energy flux density
 energy range
+energy thickness
 energy transfer
 energy-momentum tensor
 engine
@@ -1139,6 +1226,9 @@ equilibrium shape
 equilibrium state
 equipartion
 equipartion of energy
+equivalence
+equivalence ratio
+equivalent
 ergodic
 ergodic property
 ergodicity
@@ -1150,6 +1240,7 @@ Euclidean
 Euclidean geometry
 Euclidean space
 Euler equations
+Euler number
 Euler's constant
 Euler's equations
 Euler-Tricomi equation
@@ -1174,7 +1265,10 @@ exchange
 excitation
 excite
 exert
+exhaust
+exhaust nozzle
 existence
+exit
 exothermic
 exothermic reaction
 expand
@@ -1248,6 +1342,7 @@ field
 field theory
 figure
 film
+fin
 finite
 finite body
 finite difference
@@ -1257,6 +1352,7 @@ finite disk
 finite disturbance
 first
 first coefficient of viscosity
+first derivative
 first law of thermodynamics
 first order
 first principle
@@ -1279,6 +1375,10 @@ flame velocity
 flap
 flat plate
 flat plate boundary layer
+flight
+flight path
+flight path angle
+flight-path angle
 float
 floating body
 flow
@@ -1288,6 +1388,7 @@ flow between rotating cylinders
 flow field
 flow in a converging channel
 flow in a diverging channel
+flow in pipes
 flow loss
 flow mechanism
 flow oscillation
@@ -1316,6 +1417,7 @@ fluid contour
 fluid dynamics
 fluid element
 fluid impulse
+fluid in motion
 fluid mechanics
 fluid mixture
 fluid motion
@@ -1328,9 +1430,11 @@ fluid velocity
 fluid-mechanical
 fluid-mechanical equation
 fluidity
+flutter
 flux
 flux density
 flux of volume
+fly
 force
 force of gravity
 fore
@@ -1386,6 +1490,8 @@ frequency band
 frequency-band
 friction
 friction drag
+friction factor
+friction head
 friction velocity
 frictional
 frictional force
@@ -1393,6 +1499,8 @@ frictional stress
 frictional stress at the wall
 frictionless
 front
+frontal
+frontal area
 Froude number
 Froude's law
 fuel
@@ -1407,7 +1515,9 @@ fundamental scale of the turbulence
 fundamental theorem of algebra
 fundamental theorem of calculus
 fundamental unit
+fuselage
 future
+gage
 Galilean
 Galilean invariance
 Galilean relativity
@@ -1419,13 +1529,18 @@ gas combustion
 gas constant
 gas dynamics
 gas flow
+gas in motion
 gas mixture
+gas phase
 gas pressure
 gas temperature
+gas turbuine
 gas velocity
 gas-liquid interface
 gaseous
 gaseous phase
+gauge
+gauge pressure
 Gauss's theorem
 general
 general equation
@@ -1459,6 +1574,7 @@ governing
 governing equation
 gradient
 gradient wind
+Graetz number
 Grashof number
 gravitation
 gravitational
@@ -1483,7 +1599,11 @@ growing
 growth
 growth rate
 gun
+gust
+gust velocity
+gyration
 half
+half angle
 half-angle
 half-plane
 half-space
@@ -1495,22 +1615,29 @@ harmonic function
 harmonic motion
 harmonic wave
 harmonics
+head
 heat
 heat capacity
 heat capacity at constant pressure
 heat capacity at constant volume
 heat conduction
 heat conduction equation
+heat content
 heat convection
 heat engine
 heat equation
+heat exchange
+heat exchanger
+heat flow rate
 heat flux
 heat flux density
 heat function
 heat loss
 heat of reaction
+heat quantity
 heat transfer
 heat transfer coefficient
+heat-flow rate
 heated
 heating
 height
@@ -1530,6 +1657,7 @@ hemisphere
 hemispherical
 hemispherical cavity
 heuristic
+high
 high frequency
 high pressure
 high Reynolds number
@@ -1561,6 +1689,7 @@ horizontal co-ordinate
 horizontal component
 horizontal coordinate
 horizontal layer
+horizontal plane
 horizontal pressure gradient
 hot
 hot wall
@@ -1571,6 +1700,7 @@ humid
 humidity
 hydraulic
 hydraulic engineer
+hydraulic head
 hydraulic jump
 hydraulics
 hydrodynamic
@@ -1604,6 +1734,8 @@ ideal fluid
 ideal gas
 ideality
 identical
+identification
+identify
 identity
 ignite
 ignition
@@ -1620,6 +1752,7 @@ immersion
 immiscible
 immiscible fluid
 impact
+impact pressure
 impinge
 impingement
 impingement angle
@@ -1662,6 +1795,9 @@ independent
 independent variable
 independent variables
 index
+indicate
+indicated
+indication
 induce
 induced drag
 induced drag force
@@ -1711,6 +1847,7 @@ inner cylinder
 inner edge
 inner layer
 inner product
+input
 inspection
 inspectional analysis
 instability
@@ -1721,6 +1858,7 @@ insulate
 insulating
 insulation
 insulator
+intake
 integrable
 integral
 integral form
@@ -1738,8 +1876,11 @@ intensivity
 interact
 interaction
 interaction region
+interchangeable
 interface
 interfacial
+interfere
+interference
 interior
 interior ballistics
 intermittency
@@ -1833,6 +1974,7 @@ Jeffery-Hamel flow
 jet
 jet engine
 jet impingement
+jet propulsion
 Jouguet point
 Joukowski aerofoil
 Joukowski airfoil
@@ -1841,6 +1983,7 @@ Joukowski transformation
 Joukowski's hypothesis
 Joukowski's theorem
 Joukowsky condition
+Joule's constant
 jump
 Kelvin's circulation theorem
 Kelvin's minimum energy theorem
@@ -1911,10 +2054,12 @@ large
 large Reynolds number
 large-scale
 lateral
+lateral body axis
 lateral dimension
 lateral gradient
 lateral plane
 lateral wave
+lateral wind axis
 latitude
 Laurent series
 law
@@ -1930,13 +2075,17 @@ layer
 layered
 Le Chatelier's principle
 leading edge
+lean
+lean conditions
 leave
 lee
+left
 left hand side
 left-hand side
 Legendre polynomial
 length
 length scale
+level
 lift
 lift coefficient
 lift force
@@ -1972,18 +2121,24 @@ linear function
 linear momentum
 linear size
 linear transformation
+linear velocity
 linearity
 linearize
 linearized
 linearized equations of motion
 liquid
+liquid at rest
+liquid in motion
 liquid phase
 local
 local proper frame
 local property
+local skin friction
+local skin friction coefficient
 local speed of sound
 local subsonic flow
 local supersonic flow
+local surface friction coefficient
 local velocity of sound
 locality
 localize
@@ -1998,8 +2153,10 @@ logical
 Loitsyanskii's integral
 longitude
 longitudinal
+longitudinal body axis
 longitudinal coordinate
 longitudinal velocity
+longitudinal wind axis
 loop
 Lorentz invariance
 Lorentz transformation
@@ -2023,8 +2180,10 @@ Lyapunov exponent
 Mach angle
 Mach cone
 Mach number
+Mach number relation
 Mach reflection
 Mach surface
+machinery
 Maclaurin series
 macroscopic
 macroscopic motion
@@ -2049,8 +2208,11 @@ mass flow rate
 mass flux
 mass flux density
 mass fraction
+mass moment of inertia
+mass rate of flow
 mass transfer
 mass transfer coefficient
+mass velocity
 mass-conservation
 mass-conservation equation
 matching
@@ -2097,9 +2259,12 @@ Maxwell relations
 Maxwell's relations
 Maxwell's thermodynamic relations
 mean
+mean aerodynamic hord
 mean free path
 mean speed
+mean value
 mean velocity
+mean velocity component
 measure
 measurement
 mechanical
@@ -2107,6 +2272,7 @@ mechanical energy
 mechanical engineer
 mechanical engineering
 mechanical equilibrium
+mechanical equivalent of heat
 mechanical mixing
 mechanical pressure
 mechanical property
@@ -2116,6 +2282,8 @@ mechanism
 media
 medium
 mercury
+meridional
+meridional component
 mesh
 metaphysical
 metaphysical principle
@@ -2130,6 +2298,7 @@ methodical
 methods of characteristics
 metric
 metric tensor
+micro-scale
 microscale
 microscopic
 microscopic property
@@ -2163,14 +2332,20 @@ modified pressure
 modulus of elasticity
 molar concentration
 molar density
+molar enthalpy
+molar entropy
 molar flux
 molar gas constant
 molar heat
 molar heat capacity
 molar heat capacity at constant pressure
 molar heat capacity at constant volume
+molar internal energy
 molar isobaric heat capacity
 molar isochoric heat capacity
+molar quantity of heat
+molar quantity of work
+molar volume
 mole
 mole fraction
 molecular
@@ -2183,6 +2358,7 @@ molecular viscosity
 molecular weight
 molecule
 moment
+moment of inertia
 moment of momentum
 momentum
 momentum conservation
@@ -2395,6 +2571,7 @@ onset
 onset of turbulence
 open
 open channel
+open conduit
 open end
 open system
 operand
@@ -2412,6 +2589,7 @@ ordinate
 orifice
 origin
 origin of turbulence
+original
 orthodox
 orthodoxy
 orthogonal
@@ -2448,6 +2626,7 @@ oval
 over-compressed
 over-compressed detonation
 over-compressed detonation wave
+overall surface friction coefficient
 overdetermined
 overlap
 overlap argument
@@ -2469,6 +2648,7 @@ parallel viscous flow
 parameter
 parameters of state
 parametric
+parasitic
 parcel
 parenthetical
 part
@@ -2494,6 +2674,7 @@ path-independent
 pattern
 pattern of flow
 peak
+Peclet number
 pedagogical
 pedagogy
 pedantic
@@ -2562,9 +2743,13 @@ pipe
 pipe flow
 piston
 piston analogy
+pitch
+pitching
+pitching moment
 Pitot tube
 Pitot-static tube
 place
+plan area
 planar
 planar flow
 Planck's constant
@@ -2606,6 +2791,7 @@ Poisson adiabatic equation
 Poisson adiabatics
 Poisson's equation
 Poisson's formula
+Poisson's ratio
 Poisson's relations
 polar
 polar co-ordinates
@@ -2637,6 +2823,8 @@ postulate
 potential
 potential energy
 potential flow
+potential function
+potential head
 potential theory
 power
 power law
@@ -2662,6 +2850,7 @@ preferred direction
 presence
 present
 pressure
+pressure chamber
 pressure change
 pressure coefficient
 pressure difference
@@ -2670,9 +2859,12 @@ pressure distribution
 pressure drop
 pressure field
 pressure fluctuation
+pressure gauge
 pressure gradient
+pressure head
 pressure impulse
 pressure Poisson equation
+pressure reservoir
 pressure rise
 pressure scale
 pressure wave
@@ -2694,6 +2886,7 @@ product
 product rule
 production
 profile
+profile drag
 progress
 progressive
 progressive wave
@@ -2710,6 +2903,7 @@ propagation of disturbances
 propagation of sound
 propellant
 propeller
+propeller thrust
 proper
 proper frame
 proper value
@@ -2719,6 +2913,7 @@ proportion
 proportional
 proportionality
 propulsion
+propulsive
 Proudman's theorem
 prove
 puff
@@ -2741,6 +2936,7 @@ quadratic equation
 quadratic expression
 qualitative
 quality
+quantification
 quantify
 quantitative
 quantity
@@ -2772,6 +2968,9 @@ radioactive
 radioactivity
 radius
 radius of curvature
+ram
+ram jet
+ramjet
 random
 range
 rank
@@ -2801,6 +3000,7 @@ rate of change
 rate of dissipation
 rate of expansion
 rate of formation
+rate of heat transfer
 rate of in-flow
 rate of inflow
 rate of out-flow
@@ -2811,6 +3011,8 @@ rate of strain tensor
 rate-of-strain
 rate-of-strain tensor
 ratio
+ratio of heat capacities
+ratio of specific heat
 ratio of specific heats
 ratio of specific heats at constant pressure and constant volume
 rational
@@ -2854,6 +3056,9 @@ reciprocity
 reciprocity principle
 recombination
 recombine
+recovery
+recovery factor
+recovery temperature
 rectangle
 rectangular
 rectangular axis
@@ -2869,6 +3074,7 @@ rectilinear motion
 redistribute
 redistribution
 reduce
+reduced frequency
 reducible
 reduction
 reduction in drag
@@ -2876,6 +3082,8 @@ reduction in lift
 redundant
 reference
 reference frame
+reference length
+reference value
 reflect
 reflected rarefaction
 reflected rarefaction wave
@@ -2903,6 +3111,7 @@ regular shock wave reflection
 regularity
 relate
 relation
+relationship
 relative
 relative humidity
 relative motion
@@ -2927,6 +3136,7 @@ representative
 repulsion
 require
 requirement
+reservoir
 resist
 resistance
 resistance coefficient
@@ -2967,6 +3177,9 @@ Reynolds stress
 Reynolds stress tensor
 Reynolds transport theorem
 Reynolds' transport theorem
+rich
+rich conditions
+richness
 Riemann invariant
 right
 right angle
@@ -2988,19 +3201,26 @@ ripple
 rise
 river
 rocket
+rocket propulsion
 rocket-propelled
 rocket-propelled projectile
+rocketry
 role
 roll
 roller
+rolling
+rolling moment
 root
 Rossby number
 Rossby wave
 rotary
+rotary-wing
+rotary-wing aircraft
 rotate
 rotating
 rotating axes
 rotating axis
+rotating blade
 rotating cylinder
 rotating disk
 rotating flow
@@ -3016,6 +3236,7 @@ rotational mode
 rotational motion
 rotational speed
 rotationality
+rotor
 rough
 rough surface
 rough wall
@@ -3038,6 +3259,7 @@ satisfy
 saturate
 saturated
 saturation
+saturation vapor pressure
 scalar
 scalar equation
 scalar field
@@ -3060,9 +3282,11 @@ scientist
 scope
 sea
 sea bed
+sea level
 secant
 second
 second coefficient of viscosity
+second derivative
 second law of thermodynamics
 second order
 second sound
@@ -3074,6 +3298,8 @@ secondary flow
 secondary motion
 secord-order
 secord-order motion
+section
+section coefficient
 sediment
 sedimentation
 segment
@@ -3091,7 +3317,9 @@ semi-empirical theory
 semi-infinite
 semi-infinite body
 semi-thickness
+semichord
 semicircular
+semispan
 separable
 separated boundary layer
 separated flow
@@ -3122,10 +3350,13 @@ sharp trailing edge
 shear
 shear force
 shear layer
+shear modulus
 shear strain
 shear stress
+shear velocity
 shear viscosity
 shearing
+shearing stress
 shed vorticity
 sheet
 sheet jet
@@ -3158,6 +3389,9 @@ short cut
 shortcut
 side
 side-force
+sideslip
+sideslip angle
+sidewash angle
 sign
 sign convention
 significance
@@ -3217,6 +3451,7 @@ slip flow
 slipping
 slipstream
 slope
+slope of lift curve
 slot
 slotted
 slotted wing
@@ -3249,7 +3484,9 @@ solution
 solve
 solved
 solved problem
+sonic
 sonic analogy
+sonic conditions
 sonic flow
 sonic line
 sonic surface
@@ -3269,6 +3506,7 @@ source doublet
 source strength
 southern hemisphere
 space
+space coordinate
 space curve
 space derivative
 span
@@ -3290,9 +3528,13 @@ specific heat at constant volume
 specific heat capacity
 specific heat capacity at constant pressure
 specific heat capacity at constant volume
+specific heat quantity
 specific internal energy
 specific isobaric heat capacity
 specific isochoric heat capacity
+specific quantity of heat
+specific quantity of work
+specific speed
 specific total enthalpy
 specific total internal energy
 specific volume
@@ -3301,6 +3543,7 @@ spectral
 spectral representation
 spectral resolution
 spectrum
+spectrum of turbulence
 speed
 speed of light
 speed of sound
@@ -3339,6 +3582,7 @@ square matrix
 square root
 stability
 stability derivative
+stabilizer
 stable
 stable region
 stagger
@@ -3352,9 +3596,13 @@ stagnation point
 stagnation point flow
 stall
 stalled
+standard
+standardize
+standardized
 standing eddy
 standing sound wave
 standing wave
+Stanton number
 starting flow
 starting vortex
 state
@@ -3393,12 +3641,18 @@ steady simple wave
 steady solution
 steady state
 steady streaming
+steady-flow
 steady-state
 steady-state cavity
+steam
+steam turbine
+stiff
+stiffness
 stochastic
 stochastic attractor
 stoichiometric
 stoichiometric coefficient
+stoichiometric mixture
 stoichiometric relation
 stoichiometry
 Stokes approximation
@@ -3476,11 +3730,14 @@ submerged
 submerged jet
 submerged laminar jet
 submerged turbulent jet
+subscript
 subsonic
+subsonic compressibility factor
 subsonic flow
 subsonic flow region
 subsonic incident flow
 subsonic region
+subsonic stream
 subsonic velocity
 substance
 substantial
@@ -3505,11 +3762,14 @@ superfluidity
 superpose
 superposition
 superposition principle
+superscript
 supersonic
+supersonic compressibility factor
 supersonic flow
 supersonic flow region
 supersonic incident flow
 supersonic region
+supersonic stream
 supersonic velocity
 supersonic wind tunnel
 supersonic wind-tunnel
@@ -3517,6 +3777,7 @@ surface
 surface area
 surface element
 surface force
+surface friction coefficient
 surface integral
 surface layer
 surface of discontinuity
@@ -3533,6 +3794,8 @@ surface-tension coefficient
 surrounding
 suspension
 sweep-back
+sweepback
+sweepback angle
 swept wing
 swept-back wing
 swirl
@@ -3556,12 +3819,15 @@ symmetry
 symmetry principle
 symmetry principle for the kinetic coefficients
 system
+system of axes
 system of coordinates
 system of coördinates
 system of equations
 system of units
+systematic
 table
 tabular
+tail
 take off
 take-off
 tangent
@@ -3573,6 +3839,7 @@ tangential stress
 tangential velocity
 tangential velocity component
 tank
+taper
 Taub adiabatic
 Taylor column
 Taylor instability
@@ -3594,11 +3861,16 @@ temperature difference
 temperature distribution
 temperature fluctuation
 temperature gradient
+temperature ratio
+temperature recovery factor
+temperature-recovery factor
 tense
+tensile
 tension
 tensor
 tensor analysis
 tensor field
+tensor index
 tensor rank
 tensorial
 term
@@ -3679,16 +3951,21 @@ three-dimensional flow
 three-dimensional jet
 three-dimensional motion
 three-dimensionality
+throat
 thrust
+thrust coefficient
+thurst line
 tilt
 tilted
 time
 time average
 time averaging
 time derivative
+time ratio
 time scale
 time-dependence
 time-dependent
+tip
 tip vortex
 tone
 topological
@@ -3700,13 +3977,17 @@ torque
 Torricelli's law
 Torricelli's theorem
 torsion
+torsional
 torus
 total
 total density
 total differential
 total drag
 total enthalpy
+total head
+total heat content
 total internal energy
+total pressure
 tow
 towing
 towing tank
@@ -3774,8 +4055,15 @@ tube
 tube surface
 tube wall
 tunnel
+turbine
+turbo-machinery
+turbuine
 turbulence
+turbulence energy distribution
+turbulence intensity
 turbulence problem
+turbulence scale
+turbulence-exchange coefficient
 turbulent
 turbulent boundary layer
 turbulent conduction
@@ -3783,7 +4071,9 @@ turbulent eddy
 turbulent energy
 turbulent energy distribution
 turbulent flow
+turbulent flow analysis
 turbulent fluctuation
+turbulent fluctuation frequency
 turbulent jet
 turbulent kinetic energy
 turbulent layer
@@ -3795,7 +4085,13 @@ turbulent temperature fluctuation
 turbulent velocity fluctuating
 turbulent viscosity
 turbulent wake
+turbulent-flow
+turbulent-flow analysis
+turbulent-fluctuation
+turbulent-fluctuation frequency
 turn
+twist
+twist angle
 two-component
 two-component mixture
 two-dimensional
@@ -3823,14 +4119,17 @@ unburned mixture
 unburnt
 unburnt gas
 unburnt mixture
+uncertain
 uncertainty
 uncertainty principle
+uncertainty quantification
 unchanged
 underdetermined
 underpressure
 underwater
 underwater explosion
 undisturbed
+undisturbed flow
 unidirectional
 unidirectional flow
 uniform
@@ -3862,6 +4161,7 @@ unit-free relation
 unity
 universal
 universal constant
+universal gas constant
 universality
 universe
 unknown
@@ -3892,7 +4192,9 @@ upward
 upwash
 upwind
 vacuum
+valdiate
 valid
+validation
 validity
 value
 van der Waals' equation
@@ -3928,6 +4230,7 @@ velocity field
 velocity fluctuation
 velocity gradient
 velocity gradient tensor
+velocity head
 velocity hodograph
 velocity magnitude
 velocity of light
@@ -3941,9 +4244,12 @@ velocity-field
 vena contracta
 Venturi effect
 Venturi tube
+verification
+verify
 vertex
 vertex angle
 vertical
+vertical body axis
 vertical co-ordinate
 vertical component
 vertical coordinate
@@ -3951,6 +4257,7 @@ vertical plane
 vertical tube
 vertical velocity
 vertical wall
+vertical wind axis
 vessel
 vibrate
 vibrating
@@ -3986,6 +4293,7 @@ volume element
 volume flow rate
 volume force
 volume integral
+volume rate of flow
 volumetric
 volumetric discharge
 volumetric flow rate
@@ -4053,9 +4361,13 @@ weak discontinuity
 weak family
 weak shock
 weak shock wave
+Weber number
 wedge
 wedge flow
 weight
+weight density
+weight flow rate
+weight rate of flow
 weightless
 weightlessness
 weir
@@ -4063,6 +4375,7 @@ well-set
 wet
 wetness
 wettability
+wetted perimeter
 wetting
 wide
 width
@@ -4092,6 +4405,8 @@ wire
 work
 yaw
 yawed cylinder
+yawing
+Young's modulus
 zero
 zero drag
 zero frictional stress
