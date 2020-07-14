@@ -22,8 +22,15 @@ Works consulted for the English word list
 
 - Birkhoff 1960, "Hydrodynamics"
 
+- Boucher and Alves 1959, "Dimensionless numbers", Chemical Engineering
+  Progress, September 1959, v. 55, no. 9, pp. 55-64
+
 - British Standards Insitution 1961, "Recommendations for Letter Symbols, Signs
   and Abbreviations, Part 3. Fluid Mechanics", BS-1991-PT3-1961
+
+- Klinkenberg and Mooy 1948, "Dimensionless groups in fluid friction, heat, and
+  material transfer", Chemical Engineering Progress, January 1948, v. 44, no.
+  1, pp. 17-36
 
 - Landau and Lifshitz 1987, "Fluid Mechanics"
 
