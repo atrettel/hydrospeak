@@ -34,6 +34,8 @@ Works consulted for the English word list
 
 - Landau and Lifshitz 1987, "Fluid Mechanics"
 
+- Langhaar 1951, "Dimensional Analysis and Theory of Models"
+
 -------------------------------------------------------------------------------
 
 Copyright © 2020 Andrew Trettel
