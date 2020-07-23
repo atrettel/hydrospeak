@@ -28,6 +28,8 @@ Works consulted for the English word list
 - British Standards Insitution 1961, "Recommendations for Letter Symbols, Signs
   and Abbreviations, Part 3. Fluid Mechanics", BS-1991-PT3-1961
 
+- Hoerner 1965, "Fluid-dynamic drag"
+
 - Klinkenberg and Mooy 1948, "Dimensionless groups in fluid friction, heat, and
   material transfer", Chemical Engineering Progress, January 1948, v. 44, no.
   1, pp. 17-36
