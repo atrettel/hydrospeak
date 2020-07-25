@@ -10,6 +10,17 @@ meanwhile, but I nonetheless hope that one day I have accumulated enough to
 make the effort worthwhile.
 
 
+- Sections for each term
+
+    - Definition
+
+    - Discussion
+
+    - History (origin of the concept)
+
+    - Etymology (origin of the term)
+
+
 Works consulted for the English word list
 -----------------------------------------
 
@@ -27,6 +38,8 @@ Works consulted for the English word list
 
 - British Standards Insitution 1961, "Recommendations for Letter Symbols, Signs
   and Abbreviations, Part 3. Fluid Mechanics", BS-1991-PT3-1961
+
+- Hansen 1964, "Similarity Analyses of Boundary Value Problems in Engineering"
 
 - Hoerner 1965, "Fluid-dynamic drag"
 
