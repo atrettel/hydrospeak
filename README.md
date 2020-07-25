@@ -38,6 +38,8 @@ Works consulted for the English word list
 
 - Langhaar 1951, "Dimensional Analysis and Theory of Models"
 
+- Tokaty 1972, "A History & Philosophy of Fluidmechanics"
+
 -------------------------------------------------------------------------------
 
 Copyright © 2020 Andrew Trettel
