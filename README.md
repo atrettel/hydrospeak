@@ -10,15 +10,16 @@ meanwhile, but I nonetheless hope that one day I have accumulated enough to
 make the effort worthwhile.
 
 
-- Sections for each term
+Planned sections for each term
+------------------------------
 
-    - Definition
+- Definition
 
-    - Discussion
+- Discussion
 
-    - History (origin of the concept)
+- History (origin of the concept)
 
-    - Etymology (origin of the term)
+- Etymology (origin of the term)
 
 
 Works consulted for the English word list
@@ -30,6 +31,8 @@ Works consulted for the English word list
   Sciences", ASA-Y10.7-1954
 
 - Batchelor 1967, "An Introduction to Fluid Dynamics"
+
+- Bird and Stewart and Lightfoot 1960, "Transport Phenomena"
 
 - Birkhoff 1960, "Hydrodynamics"
 
