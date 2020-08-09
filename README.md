@@ -54,6 +54,9 @@ Works consulted for the English word list
 
 - Langhaar 1951, "Dimensional Analysis and Theory of Models"
 
+- Pletcher and Tannehill and Anderson 2013, "Computational Fluid Mechanics and
+  Heat Transfer", third edition
+
 - Tokaty 1972, "A History & Philosophy of Fluidmechanics"
 
 -------------------------------------------------------------------------------
