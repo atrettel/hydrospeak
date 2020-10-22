@@ -21,6 +21,8 @@ Planned sections for each term
 
 - Etymology (origin of the term)
 
+- Usage notes
+
 
 Works consulted for the English word list
 -----------------------------------------
@@ -41,6 +43,8 @@ Works consulted for the English word list
 
 - British Standards Insitution 1961, "Recommendations for Letter Symbols, Signs
   and Abbreviations, Part 3. Fluid Mechanics", BS-1991-PT3-1961
+
+- Goldstein (ed.) 1983, "Fluid Mechanics Measurements"
 
 - Hansen 1964, "Similarity Analyses of Boundary Value Problems in Engineering"
 
