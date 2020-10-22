@@ -10,6 +10,12 @@ meanwhile, but I nonetheless hope that one day I have accumulated enough to
 make the effort worthwhile.
 
 
+TODO list
+---------
+
+- Develop initial English word list (ongoing)
+
+
 Planned sections for each term
 ------------------------------
 
