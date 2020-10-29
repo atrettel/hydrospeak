@@ -72,3 +72,7 @@ Works consulted for the English word list
 -------------------------------------------------------------------------------
 
 Copyright © 2020 Andrew Trettel
+
+This project is licensed under the Creative Commons Attribution Share Alike 4.0
+International license (`CC-BY-SA-4.0`).  For more information, please visit the
+Creative Commons website at <https://creativecommons.org/licenses/by-sa/4.0/>.
