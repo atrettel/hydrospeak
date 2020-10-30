@@ -1,13 +1,11 @@
 Fluid mechanics dictionary
 ==========================
 
-Even after a few years of experience, I still occasionally run across unknown
-words when reading articles or reports.  I often wished that I had a single
-comprehensive dictionary that could define technical terms in fluid mechanics.
-To that end, I decided to slowly create that kind of dictionary.  This is a
-long-term personal project, so I do not expect any "working product" in the
-meanwhile, but I nonetheless hope that one day I have accumulated enough to
-make the effort worthwhile.
+I often wish that I had a single comprehensive dictionary that could define
+technical terms in fluid mechanics.  To that end, I decided to slowly create
+that kind of dictionary.  This is a long-term personal project, so I do not
+expect any "working product" in the meanwhile.  The project will grow by
+accretion more than anything else, and that takes time.
 
 
 TODO list
@@ -73,6 +71,7 @@ Works consulted for the English word list
 
 Copyright © 2020 Andrew Trettel
 
-This project is licensed under the Creative Commons Attribution Share Alike 4.0
-International license (`CC-BY-SA-4.0`).  For more information, please visit the
-Creative Commons website at <https://creativecommons.org/licenses/by-sa/4.0/>.
+This repository is licensed under the Creative Commons Attribution Share Alike
+4.0 International license (`CC-BY-SA-4.0`).  For more information, please visit
+the Creative Commons website at
+<https://creativecommons.org/licenses/by-sa/4.0/>.
